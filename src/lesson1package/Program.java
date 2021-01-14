@@ -72,8 +72,6 @@ public class Program {
 //        текущий день ещё не начался, и рабочие часы за него
 //        должны учитываться.
 //        Если заданный день выходной то вывести "Сегодня выходной"
-//
-//
 //        public class DayOfWeekMain {
 //
 //            public static void main(String[] args) {
